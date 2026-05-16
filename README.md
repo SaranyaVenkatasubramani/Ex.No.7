@@ -90,6 +90,10 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
+# Prompt:
+
+“Create a futuristic and professional AI-powered productivity assistant workspace for a technical project titled ‘Personal Productivity Assistant Using Large Language Models (LLM)’. The scene should feature an advanced virtual AI assistant helping a user manage daily tasks, reminders, schedules, wellness activities, and smart notifications through natural language interaction. Include holographic dashboards displaying task management panels, reminder alerts, wellness suggestions, calendar synchronization, and conversational AI chat interfaces powered by ChatGPT-like systems. Show floating neural network graphics, glowing Python code, digital productivity analytics, and intelligent automation visuals. The environment should look modern, clean, and highly technological with dual monitors, transparent screens, futuristic UI designs, and smart wearable integrations. Use blue and purple neon lighting with cinematic reflections and realistic textures to create an innovative research atmosphere. The design should visually represent artificial intelligence, natural language processing, machine learning, and intelligent personal assistance. Make the composition suitable for an engineering project report cover or academic AI presentation. Ultra realistic, highly detailed, cinematic lighting, professional technology aesthetic, advanced cyber-tech environment, 4K ultra HD quality.”
+
 #Output:
 
 [Personal_Productivity_Assistant_Report_Saranya (1).pdf](https://github.com/user-attachments/files/27691815/Personal_Productivity_Assistant_Report_Saranya.1.pdf)
